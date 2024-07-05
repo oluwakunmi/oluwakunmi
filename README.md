@@ -33,7 +33,7 @@ I'm a passionate software developer who loves to build cool stuff! Currently lea
 ## 💼 Skills
 
 - **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: Node.js
+- **Frameworks/Libraries**:Reatjs
 - **Tools**: Git, VS Code, GitHub
 
 
